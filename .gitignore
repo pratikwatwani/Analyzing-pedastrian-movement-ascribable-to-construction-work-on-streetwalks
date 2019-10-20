@@ -1,3 +1,6 @@
 #Ignore temporary files
 
 *.lock
+
+Ignore Folders
+ProjectGuilhermeLouzada/
